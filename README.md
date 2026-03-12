@@ -1,16 +1,30 @@
-## Hi there 👋
+# Hi 👋 I'm Raghunandan Shah
 
-<!--
-**Raghunandan0777/Raghunandan0777** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 MERN Stack Developer  
+💻 I build scalable full-stack applications  
+📍 Gujarat, India  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Tech Stack
+JavaScript | React | Node.js | Express | MongoDB | Git | sql | tailwind 
+
+---
+
+## Current Focus
+- Building SaaS products
+- Learning system design
+- Open source contributions
+
+---
+
+## Projects
+- Saas quick-ai
+- forever ecommerce
+- interview platform
+
+---
+
+## Contact
+LinkedIn: https://www.linkedin.com/in/raghunandan-shah-399364220/
+Email: raghunandanshah908014@gmail.com
