@@ -36,7 +36,6 @@ Full-Stack developer with hands-on experience shipping production-ready web appl
 ![Raghunandan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Raghunandan0777&show_icons=true&theme=default&hide_border=true&count_private=true)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Raghunandan0777&layout=compact&hide_border=true&theme=default)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Raghunandan0777&hide_border=true&theme=default)
 
 ---
 
