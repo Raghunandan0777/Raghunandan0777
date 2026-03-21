@@ -1,8 +1,5 @@
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Raghunandan0777/Raghunandan0777/main/github_p.jpeg" 
-       width="130" height="130" style="border-radius:50%;object-fit:cover;" />
-</p>
+
 # Hi, I'm Raghunandan Shah 👋
 **Full-Stack MERN Developer** · Building scalable, production-ready web apps · Open to opportunities
 
@@ -37,8 +34,7 @@ Full-Stack developer with hands-on experience shipping production-ready web appl
 
 ## GitHub Stats
 
-![Raghunandan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Raghunandan0777&show_icons=true&theme=default&hide_border=true&count_private=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Raghunandan0777&layout=compact&hide_border=true&theme=default)
+
 
 
 ---
