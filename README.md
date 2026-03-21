@@ -1,5 +1,5 @@
 
-<img src="github p.jpeg" width="120" height="120" style="border-radius: 50%; object-fit: cover;" align="right" />
+<img src="githubprofile.jpeg" width="120" height="120" style="border-radius: 50%; object-fit: cover;" align="right" />
 # Hi, I'm Raghunandan Shah 👋
 **Full-Stack MERN Developer** · Building scalable, production-ready web apps · Open to opportunities
 
