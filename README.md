@@ -1,5 +1,6 @@
-# Hi, I'm Raghunandan Shah 👋
 
+<img src="github p.jpeg" width="120" height="120" style="border-radius: 50%; object-fit: cover;" align="right" />
+# Hi, I'm Raghunandan Shah 👋
 **Full-Stack MERN Developer** · Building scalable, production-ready web apps · Open to opportunities
 
 ![Open to work](https://img.shields.io/badge/Open%20to%20Work-Surat%2C%20Gujarat-brightgreen?style=flat-square)
