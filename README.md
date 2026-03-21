@@ -1,7 +1,7 @@
 
 <p align="center">
-  <img src="github_p.jpeg" width="130" height="130" 
-  style="border-radius:50%;object-fit:cover;" />
+  <img src="https://raw.githubusercontent.com/Raghunandan0777/Raghunandan0777/main/github_p.jpeg" 
+       width="130" height="130" style="border-radius:50%;object-fit:cover;" />
 </p>
 # Hi, I'm Raghunandan Shah 👋
 **Full-Stack MERN Developer** · Building scalable, production-ready web apps · Open to opportunities
