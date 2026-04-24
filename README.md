@@ -1,88 +1,115 @@
+<h1 align="center">Hi 👋, I'm Raghunandan Shah</h1>
+<h3 align="center">Full-Stack MERN Developer · Building AI-Powered Products · Gujarat, India</h3>
 
-
-# Hi, I'm Raghunandan Shah 👋
-**Full-Stack MERN Developer** · Building scalable, production-ready web apps · Open to opportunities
-
-![Open to work](https://img.shields.io/badge/Open%20to%20Work-Surat%2C%20Gujarat-brightgreen?style=flat-square)
-![MERN Stack](https://img.shields.io/badge/Stack-MERN-blue?style=flat-square)
-![B.Tech CS](https://img.shields.io/badge/B.Tech%20CS-Parul%20University%202025-orange?style=flat-square)
-![Experience](https://img.shields.io/badge/Experience-1%20Year-purple?style=flat-square)
-
----
-
-## About Me
-
-Full-Stack developer with hands-on experience shipping production-ready web applications end-to-end — from database schema design to cloud deployment. Built an AI-powered SaaS platform and a complete e-commerce system using the MERN stack. Comfortable with REST API architecture, JWT auth, RBAC, and CI/CD on Vercel and Render. Currently exploring system design and real-time features with Socket.io.
-
----
-
-## Tech Stack
-
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38BDF8?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=black)
+<p align="center">
+  <a href="https://www.linkedin.com/in/raghunandan-shah-399364220/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:raghunandanshah908014@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://github.com/Raghunandan0777">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
 
 ---
 
-## GitHub Stats
+## 🚀 About Me
 
+I'm a passionate **MERN Stack Developer** who builds scalable, full-stack web applications with real-world impact. I love integrating AI into products and am actively working on SaaS projects and system design.
 
-
-
----
-
-## Featured Projects
-
-### ⚡ Quick AI — SaaS Platform
-> AI-powered SaaS with 10+ secure REST APIs, JWT authentication, and AI automation endpoints. Optimized MongoDB queries with indexing.
-
-**Stack:** ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white) ![Express](https://img.shields.io/badge/-Express-000?style=flat-square&logo=express) ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black) ![Node](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white) ![JWT](https://img.shields.io/badge/-JWT-000?style=flat-square&logo=jsonwebtokens)
-
-🔗 [Live Demo](https://quick-ai-client-rho.vercel.app/) · [GitHub](https://github.com/Raghunandan0777/QuickAi)
+- 🔭 Currently building: **AI-powered SaaS products**
+- 🌱 Learning: **System Design, TypeScript, and Cloud Deployment**
+- 💬 Ask me about: **React, Node.js, MongoDB, Express, REST APIs**
+- 📍 Based in **Gujarat, India**
 
 ---
 
-### 🛒 Forever — Full-Stack E-Commerce Platform
-> Complete e-commerce platform with user + admin dashboards, JWT + RBAC, product/cart/order CRUD APIs, and responsive Tailwind UI.
+## 🛠️ Tech Stack
 
-**Stack:** ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black) ![Node](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white) ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white) ![Tailwind](https://img.shields.io/badge/-Tailwind-38BDF8?style=flat-square&logo=tailwind-css&logoColor=white)
-
-🔗 [Live Demo](https://forever-full-stack-frontend-slwl.onrender.com/) · [GitHub](https://github.com/Raghunandan0777/forever-full-stack)
-
----
-
-### 🏥 HealthCare AI
-> AI-integrated healthcare application with full-stack MERN architecture and AI-powered assistance features.
-
-**Stack:** ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black) ![Node](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white) ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-
-🔗 [GitHub](https://github.com/Raghunandan0777/HealthCare-AI)
-
----
-
-## Currently Learning
-
-- 📐 System design — scalability, caching, load balancing
-- 🔄 Real-time features with Socket.io
-- 🟦 TypeScript across MERN projects
-- 🌍 Open source contributions
+<p align="left">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" />
+  <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=JSON%20web%20tokens&logoColor=white" />
+</p>
 
 ---
 
-## Connect With Me
+## 🌟 Featured Projects
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white)](https://my-portfolio-fp9h.vercel.app/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/raghunandan-shah-399364220/)
-[![Email](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:raghunandanshah908014@gmail.com)
+### 🏥 [HealthCare AI](https://github.com/Raghunandan0777/HealthCare-AI) · [Live Demo](https://health-care-ai-ten.vercel.app)
+> AI-powered healthcare assistant for symptom tracking, photo-based health analysis, and nearby hospital discovery.
+
+- Built with **React, Node.js, Express, MongoDB, Hugging Face API**
+- Features: AI symptom analysis, image-based diagnosis, OTC medicine advice, GPS hospital finder
+- Auth: JWT-based secure authentication with bcrypt
 
 ---
 
-*Always open to interesting projects and collaboration opportunities.*
+### ⚡ [QuickAI](https://github.com/Raghunandan0777/QuickAi) · [Live Demo](https://quick-ai-server-cyan.vercel.app)
+> A SaaS platform that gives users quick access to AI-powered tools via a clean, fast React + Node.js interface.
+
+- Built with **React, Vite, Node.js, Express**
+- Modular architecture with separate AI and User controllers
+- Designed for scalability and fast performance
+
+---
+
+### 🛒 [Forever E-Commerce](https://github.com/Raghunandan0777/forever-full-stack)
+> Full-featured e-commerce application with product listings, cart, orders, and user authentication.
+
+- Built with **MERN Stack + Tailwind CSS**
+- Complete shopping flow: browse → cart → checkout
+
+---
+
+### 💼 [Job Portal](https://github.com/Raghunandan0777/job-portal)
+> A full-stack job listing and application platform for job seekers and employers.
+
+- Built with **MERN Stack**
+- Features: job listings, applications, recruiter dashboard
+
+---
+
+### 🎤 [Job Interview Platform](https://github.com/Raghunandan0777/JobInterview-platform)
+> Mock interview platform to help candidates practice and prepare with AI-assisted feedback.
+
+- Built with **React, Node.js, MongoDB**
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Raghunandan0777&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Raghunandan0777&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Raghunandan0777&theme=tokyonight&hide_border=true" width="60%" />
+</p>
+
+---
+
+## 🎯 Current Focus
+
+- 🏗️ Building production-ready SaaS products
+- 📐 Learning system design principles and scalable architecture
+- 🤝 Looking to contribute to open source projects
+- 🧠 Exploring TypeScript and cloud infrastructure (AWS/GCP)
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Raghunandan0777&label=Profile%20Views&color=0e75b6&style=flat" />
+</p>
+
+<p align="center">⭐ <em>If you find my work helpful, consider starring a repo — it means a lot!</em> ⭐</p>
